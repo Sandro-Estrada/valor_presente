@@ -1,0 +1,28 @@
+.icon-green-wrapper-customCard {
+  padding: 3px 5px;
+  background-color: rgba(0, 255, 0, 0.31);
+  color: green;
+  border-radius: 3px;
+  text-align: center;
+}
+
+.icon-red-wrapper-customCard {
+  padding: 3px 5px;
+  background-color: rgba(255, 0, 0, 0.31);
+  color: red;
+  border-radius: 3px;
+  text-align: center;
+}
+
+.title-label-card {
+  font-size: 1rem;
+}
+
+.text-label-card {
+  font-size: 0.7rem;
+  color: rgb(125, 125, 125);
+}
+
+.card-customCard {
+  padding: 16px;
+}
